@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="50px">, I'm Rotem 
+</h1>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=rotem711.rotem711)
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Mono&color=33FF33&size=30&center=true&vCenter=true&width=500&height=100&lines=Senior+Software+Engineer;DevOps+Engineer;Mobile+Application+Developer"></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rotem711&layout=compact&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="rotem711" /></a>
